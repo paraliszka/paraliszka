@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @paraliszka
-- 👀 I’m interested in basically everything and anything.
-- 🌱 I’m currently learning data scientist and structured programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pliszka11234@gmail.com
+- 👀 I’m interested in IT and beaing in feature a great programer
+- 🌱 I’m currently learning unreal engine and python
+- 💞️ I’m looking to collaborate on unreal engine
+- 📫 Fell free to reach me here andrzej.pliszka011@gmail.com
 
 <!---
 paraliszka/paraliszka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
